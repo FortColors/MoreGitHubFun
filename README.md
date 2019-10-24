@@ -34,7 +34,11 @@ unordered lists
 1. item 2
     * nested item 1
     * nested item 2
-1. item 3.5
+<<<<<<< HEAD
+1. item 3.14
+=======
+1. item 3.14
+>>>>>>> 6a3dff42721d78226989b10c6178d627209a00df
 
 https://www.lipsum.com/
 
