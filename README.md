@@ -46,6 +46,6 @@ The above lorem quote is from [this site](https://www.lipsum.com/).
 
 ## Tables
 |col 1|col 2|
-|----|----|
-|item 1|item 2|
-|item 2|item 3|
+|-----|-----|
+|item 1.1|item 2|
+|item 2.1|item 33456|
